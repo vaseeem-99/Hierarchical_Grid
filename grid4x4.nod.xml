@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+	<node id="A0" x="300.0" y="300.0" type="traffic_light_right_on_red"/>
+	<node id="A1" x="300.0" y="600.0" type="traffic_light_right_on_red"/>
+	<node id="A2" x="300.0" y="900.0" type="traffic_light_right_on_red"/>
+	<node id="A3" x="300.0" y="1200.0" type="traffic_light_right_on_red"/>
+	<node id="B0" x="600.0" y="300.0" type="traffic_light_right_on_red"/>
+	<node id="B1" x="600.0" y="600.0" type="traffic_light_right_on_red"/>
+	<node id="B2" x="600.0" y="900.0" type="traffic_light_right_on_red"/>
+	<node id="B3" x="600.0" y="1200.0" type="traffic_light_right_on_red"/>
+	<node id="C0" x="900.0" y="300.0" type="traffic_light_right_on_red"/>
+	<node id="C1" x="900.0" y="600.0" type="traffic_light_right_on_red"/>
+	<node id="C2" x="900.0" y="900.0" type="traffic_light_right_on_red"/>
+	<node id="C3" x="900.0" y="1200.0" type="traffic_light_right_on_red"/>
+	<node id="D0" x="1200.0" y="300.0" type="traffic_light_right_on_red"/>
+	<node id="D1" x="1200.0" y="600.0" type="traffic_light_right_on_red"/>
+	<node id="D2" x="1200.0" y="900.0" type="traffic_light_right_on_red"/>
+	<node id="D3" x="1200.0" y="1200.0" type="traffic_light_right_on_red"/>
+	<node id="bottom0" x="300.0" y="0.0" type="traffic_light_right_on_red"/>
+	<node id="bottom1" x="600.0" y="0.0" type="traffic_light_right_on_red"/>
+	<node id="bottom2" x="900.0" y="0.0" type="traffic_light_right_on_red"/>
+	<node id="bottom3" x="1200.0" y="0.0" type="traffic_light_right_on_red"/>
+	<node id="left0" x="0.0" y="300.0" type="traffic_light_right_on_red"/>
+	<node id="left1" x="0.0" y="600.0" type="traffic_light_right_on_red"/>
+	<node id="left2" x="0.0" y="900.0" type="traffic_light_right_on_red"/>
+	<node id="left3" x="0.0" y="1200.0" type="traffic_light_right_on_red"/>
+	<node id="right0" x="1500.0" y="300.0" type="traffic_light_right_on_red"/>
+	<node id="right1" x="1500.0" y="600.0" type="traffic_light_right_on_red"/>
+	<node id="right2" x="1500.0" y="900.0" type="traffic_light_right_on_red"/>
+	<node id="right3" x="1500.0" y="1200.0" type="traffic_light_right_on_red"/>
+	<node id="top0" x="300.0" y="1500.0" type="traffic_light_right_on_red"/>
+	<node id="top1" x="600.0" y="1500.0" type="traffic_light_right_on_red"/>
+	<node id="top2" x="900.0" y="1500.0" type="traffic_light_right_on_red"/>
+	<node id="top3" x="1200.0" y="1500.0" type="traffic_light_right_on_red"/>
+</nodes>
